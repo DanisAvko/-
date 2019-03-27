@@ -6,3 +6,5 @@ def NOD(a, b):
 a = int(input())
 b = int(input())
 print(NOD(a, b))
+
+#test
