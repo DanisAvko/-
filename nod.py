@@ -3,6 +3,6 @@ def NOD(a, b):
         return a
     else:
         return NOD(b, a % b)
-a = int(input()) 
-b = int(input()) 
-print(NOD(a,b))
+a = int(input())
+b = int(input())
+print(NOD(a, b))
