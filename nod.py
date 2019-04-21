@@ -7,4 +7,4 @@ a = int(input())
 b = int(input())
 print(NOD(a, b))
 
-#test
+#test1
